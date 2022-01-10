@@ -4,7 +4,7 @@ CI and CD
 
 copy the sshkey in to github
 execute python3 -m venv ~/.devops-aws
-python3 -m venv ~/.devops-from-zero
+python3 -m venv ~/.devops-aws
 [![Python CI steps Github Actions](https://github.com/Prabhu4tx/devops-aws/actions/workflows/main.yml/badge.svg)](https://github.com/Prabhu4tx/devops-aws/actions/workflows/main.yml)
 
 ) $ make install
