@@ -1,5 +1,9 @@
 # devops-aws
 CI and CD
+# Create a project scafold
+#command line
+#Microservice overview
+# Continous delivery
 # Spin up the AWS cloud9 
 
 copy the sshkey in to github
